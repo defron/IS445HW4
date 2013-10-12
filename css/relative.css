@@ -1,0 +1,16 @@
+@import url("static.css");
+body {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+aside {
+    position: relative;
+    top: -200px;
+    left: 66.7%;
+}
+footer {
+    position: relative;
+    top: -200px;
+    left: 0px;
+}

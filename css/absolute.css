@@ -1,0 +1,12 @@
+@import url("static.css");
+body {
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    margin-left: -340px;
+}
+aside {
+    position: absolute;
+    top: 70px;
+    left: 66.7%;
+}
