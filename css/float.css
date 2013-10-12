@@ -1,0 +1,11 @@
+@import url("static.css");
+
+article {
+    float: left;
+}
+aside {
+    float: right;
+}
+footer {
+    clear: both;
+}
